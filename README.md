@@ -68,7 +68,7 @@ your linked CSS is working:
 
 ```css
 h1 {
-  color: red;
+  color: red; 
 }
 ```
 
